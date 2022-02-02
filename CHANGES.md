@@ -4,6 +4,16 @@ moodle-theme_boost_campus
 Changes
 -------
 
+### v3.11-r2
+
+* 2022-01-06 - Improvement: Add frontpage support for infobanner - Thanks to Melanie Treitinger.
+* 2022-01-06 - Improvement: Profile button with "editadvanced" link for users with capability 'moodle/user:update' - Thanks to Melanie Treitinger.
+
+### v3.11-r1
+
+* 2021-12-28 - Adjust loginform.mustache and help_icon.mustache templates after upstream changes in MDL-70721.
+* 2021-12-08 - Prepare compatibility for Moodle 3.11.
+
 ### v3.10-r9
 
 * 2021-09-16 - Regression: The switch role functionality caused a fatal error with some theme configurations - Thanks to Klaus Steitz.

@@ -9,7 +9,7 @@ Moodle Boost child theme which is intended to meet the needs of university campu
 Requirements
 ------------
 
-This plugin requires Moodle 3.10+
+This plugin requires Moodle 3.11+
 
 
 Motivation for this theme
@@ -559,10 +559,18 @@ PHP7 Support
 Since Moodle 3.4 core, PHP7 is mandatory. We are developing and testing this plugin for PHP7 only.
 
 
+Maintainers
+-----------
+
+Ulm University\
+Communication and Information Centre (kiz)\
+Alexander Bias
+
+
 Copyright
 ---------
 
-Ulm University
-Communication and Information Centre (kiz)
+Ulm University\
+Communication and Information Centre (kiz)\
 Kathrin Osswald
 
